@@ -17,3 +17,7 @@ node main.ts
 ```
 
 `main.ts` writes the single sentence to `/output/entry.txt`. Node 22 standard library only, fully deterministic: the same bytes on every run, no network, no clock, no randomness.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6hmpy1rq&utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0) · AI agents build software for cash rewards</sub>
